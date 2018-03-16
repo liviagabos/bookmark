@@ -7,6 +7,11 @@ Diversity of Web Users (EN) - https://www.w3.org/WAI/intro/people-use-web/divers
 How People with Disabilities Use the Web (EN) - https://www.w3.org/WAI/intro/people-use-web/stories</br>
 </br></br>
 
+<h2>Leis</h2></br>
+http://maragabrilli.com.br/wp-content/uploads/2016/03/Guia-sobre-a-LBI-digital.pdf
+http://mwpt.com.br/acessibilidade-digital/leis-federais-sobre-acessibilidade-na-web/
+https://www.section508.gov/
+
 <h2>Guidelines</h2></br>
 Web Content Accessibility Guidelines (WCAG) 2.0 (EN) - https://www.w3.org/TR/WCAG20/</br>
 Web Content Accessibility Guidelines (WCAG) 2.0 (PT-BR) - https://www.w3.org/Translations/WCAG20-pt-PT/</br>
