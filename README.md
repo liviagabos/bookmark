@@ -6,6 +6,7 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 Diversity of Web Users (EN) - https://www.w3.org/WAI/intro/people-use-web/diversity</br>
 How People with Disabilities Use the Web (EN) - https://www.w3.org/WAI/intro/people-use-web/stories</br>
 </br></br>
+
 <h2>Guidelines</h2></br>
 Web Content Accessibility Guidelines (WCAG) 2.0 (EN) - https://www.w3.org/TR/WCAG20/</br>
 Web Content Accessibility Guidelines (WCAG) 2.0 (PT-BR) - https://www.w3.org/Translations/WCAG20-pt-PT/</br>
@@ -24,6 +25,7 @@ Web Accessibility Tutorials (EN) - https://www.w3.org/WAI/tutorials/</br>
 Web Content Accessibility Guidelines—for People Who Haven't Read Them (EN) - https://24ways.org/2017/wcag-for-people-who-havent-read-them/</br>
 Accessibility (EN) - https://www.w3.org/standards/webdesign/accessibility</br>
 eMAG - Modelo de Acessibilidade em Governo Eletrônico (PT-BR) - http://emag.governoeletronico.gov.br/</br>
+Toolkit WCAG (PT-BR) http://acessibilida.de/toolkit/ </br>
 </br></br>
 
 
@@ -90,6 +92,7 @@ https://tableless.com.br/categories/acessibilidade/</br>
 https://medium.com/utilizza/como-foi-a-trilha-de-acessibilidade-do-tdc-sp-2017-600fde518d8f</br>
 https://medium.com/acessibilito</br>
 http://acessibilidade.pt.webiwg.org/</br>
+http://acessibilida.de/</br>
 </br></br>
 
 
