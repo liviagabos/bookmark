@@ -61,6 +61,7 @@ https://github.com/collections/web-accessibility</br>
 http://www.color-blindness.com/coblis-color-blindness-simulator</br>
 http://colorsafe.co/</br>
 https://www.governoeletronico.gov.br/eixos-de-atuacao/governo/acessibilidade/ferramentas</br>
+http://contrast-finder.tanaguru.com/</br>
 </br></br>
 
 
