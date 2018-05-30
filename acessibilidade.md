@@ -2,18 +2,18 @@
 Repositório com links relacionados a acessibilidade em geral. Os link possuem indicação de idioma na frente: inglês sigla EN, português-Brasil sigla PT-BR e português-Portugal sigla PT.
 
 
-##Quem usa acessibilidade
+## Quem usa acessibilidade
 -Diversity of Web Users (EN) - https://www.w3.org/WAI/intro/people-use-web/diversity
 -How People with Disabilities Use the Web (EN) - https://www.w3.org/WAI/intro/people-use-web/stories
 
 
-##Leis
+## Leis
 - http://maragabrilli.com.br/wp-content/uploads/2016/03/Guia-sobre-a-LBI-digital.pdf
 - http://mwpt.com.br/acessibilidade-digital/leis-federais-sobre-acessibilidade-na-web/
 - https://www.section508.gov/
 
 
-##Guidelines
+## Guidelines
 - Web Content Accessibility Guidelines (WCAG) 2.0 (EN) - https://www.w3.org/TR/WCAG20/
 - Web Content Accessibility Guidelines (WCAG) 2.0 (PT-BR) - https://www.w3.org/Translations/WCAG20-pt-PT/
 - Web Content Accessibility Guidelines (WCAG) 2.1 (EN) - https://www.w3.org/TR/WCAG21/
@@ -34,7 +34,7 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - Toolkit WCAG (PT-BR) http://acessibilida.de/toolkit/ 
 
 
-##WAI-Aria
+## WAI-Aria
 - ARIA ou WAI-ARIA e o que você precisa saber a respeito (PT-BR) - https://blog.apiki.com/2017/07/25/aria-o-que-voce-precisa-saber-respeito/
 - Accessible Rich Internet Applications (WAI-ARIA) 1.2 (EN) - https://w3c.github.io/aria/
 - Accessible Rich Internet Applications (WAI-ARIA) 1.1 (EN) - https://www.w3.org/TR/wai-aria-1.1/
@@ -45,7 +45,7 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - WAI-ARIA Screen reader compatibility - https://www.powermapper.com/tests/screen-readers/aria/
 
 
-##API de acessibilidade
+## API de acessibilidade
 - http://www.html5accessibility.com/browser-acc.html
 - https://www.levelaccess.com/how-browsers-interact-with-screen-readers-and-where-aria-fits-in-the-mix/
 - http://whatsock.com/training/
@@ -53,13 +53,13 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - https://www.marcozehe.de/2013/09/07/why-accessibility-apis-matter/
 
 
-##Acessibilidade em navegadores e SOs
+## Acessibilidade em navegadores e SOs
 - https://developer.mozilla.org/en-US/docs/Web/Accessibility
 - https://developer.microsoft.com/pt-br/windows/accessible-apps
 - https://developers.google.com/web/fundamentals/accessibility/
 
 
-##Tools
+## Tools
 - https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb
 - Colour Contrast Analyser - https://developer.paciellogroup.com/resources/contrastanalyser/
 - Web Accessibility Toolbar - https://developer.paciellogroup.com/resources/wat/
@@ -78,18 +78,18 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - http://contrast-finder.tanaguru.com/
 
 
-##Tecnologias Assistivas
+## Tecnologias Assistivas
 - https://webaim.org/techniques/screenreader/#how
 - http://emag.governoeletronico.gov.br/cursodesenvolvedor/introducao/tecnologia-assistiva-leitores-de-tela.html
 
 
-##Checklist
+## Checklist
 - https://a11yproject.com/checklist.html
 - https://www.wuhcag.com/wcag-checklist/
 - https://developer.mozilla.org/en-US/docs/Web/Accessibility/Mobile_accessibility_checklist
 
 
-##Podcast
+## Podcast
 - https://hipsters.tech/programar-sem-enxergar-hipsters-82/
 - https://hipsters.tech/acessibilidade-web-hipsters-21/
 - http://www.b9.com.br/63639/braincast-181-acessibilidade-conteudo-com-outros-olhos/
@@ -98,7 +98,7 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - https://jovemnerd.com.br/?podcast=nerdcast-256-cegos-nerds-e-loucos
 
 
-##Coleções de conteúdos sobre acessibilidade
+## Coleções de conteúdos sobre acessibilidade
 - https://www.w3.org/WAI/
 - https://webaim.org/
 - https://acessibilidade-for-devs.github.io/
@@ -119,7 +119,7 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - http://dainf.ct.utfpr.edu.br/~leonelo/aria/nodes/node-1-2.html
 
 
-##Artigos específicos e interessantes sobre acessibilidade
+## Artigos específicos e interessantes sobre acessibilidade
 - https://medium.com/revista-web/dicas-para-verificar-a-acessibilidade-da-sua-p%C3%A1gina-web-186acdfb865c
 - https://medium.com/vivareal-ux-chapter/guideline-de-acessibilidade-baseada-na-wcag-2-0-7950346f86a1
 - https://trendr.com.br/por-um-medium-mais-acess%C3%ADvel-5074eee71383
@@ -127,17 +127,17 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - The Ultimate Guide to Accessibility and WordPress - https://premium.wpmudev.org/blog/making-wordpress-accessible/
 
 
-##Acessibilidade para livros digitais
+## Acessibilidade para livros digitais
 - DAISY - https://www.digitalbookworld.com/single-post/2018/01/15/The-DAISY-Consortium-joins-forces-with-Digital-Book-World-to-talk-accessibility
 - Acessibilidade no e-book - https://www.rocco.com.br/blog/acessibilidade-no-e-book/
 
 
-##Apresentações acessíveis
+## Apresentações acessíveis
 - https://medium.com/uxconfbr/guia-para-eventos-acessiveis-como-fazer-apresentacoes-parte-i-137317610631
 - https://medium.com/uxconfbr/guia-para-eventos-acess%C3%ADveis-como-fazer-apresenta%C3%A7%C3%B5es-parte-ii-ab84932bd8a2
 
 
-##Livros e artigos sobre acessibilidade
+## Livros e artigos sobre acessibilidade
 - https://www.amazon.com.br/Acessibilidade-web-Universit%C3%A1ria-Reinaldo-Ferraz-ebook/dp/B077ZW7267/
 - http://ceweb.br/publicacao/acessibilidade-em-svg-e-seo/
 - http://ceweb.br/publicacao/cartilha-de-acessibilidade-na-web-fasciculo-i/
@@ -147,7 +147,7 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - Livros para estudar acessibilidade web - https://medium.com/bruno-pulis/dica-matadora-6-livros-para-estudar-acessibilidade-web-b29a20b6053a
 
 
-##Cursos
+## Cursos
 - https://github.com/VaiNaWeb/primeiros-passos-na-web
 - http://www.w3c.br/Cursos/PadroesWebAcessibilidade
 - http://www.w3c.br/Cursos/WebSemantica
@@ -162,20 +162,20 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - https://webdesign.tutsplus.com/categories/web-accessibility/courses
 
 
-##Pesquisas
+## Pesquisas
 - Screen Reader User Survey #7 Results - https://webaim.org/projects/screenreadersurvey7/
 
 
-##Notícias e conteúdos interessantes
+## Notícias e conteúdos interessantes
 - http://www.diversidadenarua.cc/
 
 
-##Pessoas para seguir nessa internet de meus deus
+## Pessoas para seguir nessa internet de meus deus
 - Talita Pagani - https://medium.com/@talitapagani/
 - Reinaldo Ferraz - https://medium.com/@reinaldoferraz
 
 
-##Vídeos
+## Vídeos
 - Acessibilidade na Web - Alura Live#47 - https://www.youtube.com/watch?v=vrLx1yJjsXU
 - Introduction to Web Accessibility and W3C Standards - https://www.youtube.com/watch?v=20SHvU2PKsM
 - Intro to ARIA -- A11ycasts #13 - https://www.youtube.com/watch?v=g9Qff0b-lHk
