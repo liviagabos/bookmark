@@ -36,5 +36,4 @@ https://leanpub.com/warau
 https://leanpub.com/UXD-alguem-esta-fazendo-isso-por-voce
 https://www.caelum.com.br/apostila-ux-usabilidade-mobile-web/#null
 https://lucianolarrossa.com/ebooks-gratis-para-freelancers-de-web-design/
-https://www.4shared.com/office/Um9CgPxKce/UX_Design_-_Fabricio_Teixeira.html
 http://auladeux.com.br/
