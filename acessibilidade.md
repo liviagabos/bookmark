@@ -3,8 +3,9 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 
 
 ## Quem usa acessibilidade
--Diversity of Web Users (EN) - https://www.w3.org/WAI/intro/people-use-web/diversity
--How People with Disabilities Use the Web (EN) - https://www.w3.org/WAI/intro/people-use-web/stories
+- [Diversity of Web Users - W3c (EN)](https://www.w3.org/WAI/intro/people-use-web/diversity)
+- [How People with Disabilities Use the Web - W3c (EN)](https://www.w3.org/WAI/intro/people-use-web/stories)
+- [Design para deficiências cognitivas (EN)](https://thenextweb.com/growth-quarters/2020/04/06/designing-for-cognitive-accessibility-where-to-begin/)
 
 
 ## Leis
@@ -14,15 +15,16 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 
 
 ## Guidelines
-- Web Content Accessibility Guidelines (WCAG) 2.0 (EN) - https://www.w3.org/TR/WCAG20/
-- Web Content Accessibility Guidelines (WCAG) 2.0 (PT-BR) - https://www.w3.org/Translations/WCAG20-pt-PT/
-- Web Content Accessibility Guidelines (WCAG) 2.1 (EN) - https://www.w3.org/TR/WCAG21/
+- [Web Content Accessibility Guidelines (WCAG) 2.1 (EN)](https://www.w3.org/TR/WCAG21/)
+- [Web Content Accessibility Guidelines (WCAG) 2.0 (PT-BR)](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/)
+- [Web Content Accessibility Guidelines (WCAG) 2.1 (EN) - Working in Progress](https://www.w3.org/TR/2020/WD-WCAG22-20200811/)
 - Primeira atualização das Diretrizes de Acessibilidade para Conteúdo Web (PT-BR) - http://mwpt.com.br/primeira-atualizacao-das-diretrizes-de-acessibilidade-para-conteudo-web-wcag-2-1-w3c-working-draft/
-- Techniques for WCAG 2.0 (EN) - https://www.w3.org/WAI/GL/WCAG20-TECHS/
+- [Novidades na versão WCAG 2.2 (EN)](https://adrianroselli.com/2020/08/whats-new-in-wcag-2-2.html)
+- [Apresentação do Reinaldo Ferraz sobre WCAG 2.2 (PT-BR)](https://www.slideshare.net/CentroWeb/wcag-22-238235079)
 - WAI-ARIA Authoring Practices 1.1 (EN) - https://www.w3.org/TR/wai-aria-practices/
 
 - Style Guide (EN) - http://a11y-style-guide.com/style-guide/
-- Game accessibility guidelines (EN) - http://gameaccessibilityguidelines.com/
+- [Game accessibility guidelines (EN)](http://gameaccessibilityguidelines.com/)
 - BBC Standards and Guidelines for Mobile Accessibility (EN) - http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile
 - GAIA - Guia de Acessibilidade de Interfaces Web com foco em aspectos do Autismo (PT-BR) - http://talitapagani.com/gaia/
 - Técnicas CSS para as WCAG 2.0 (PT-BR) - http://www.acessibilidade.gov.pt/w3/TR/WCAG20-TECHS/css.html
@@ -32,6 +34,8 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - Accessibility (EN) - https://www.w3.org/standards/webdesign/accessibility
 - eMAG - Modelo de Acessibilidade em Governo Eletrônico (PT-BR) - http://emag.governoeletronico.gov.br/
 - Toolkit WCAG (PT-BR) http://acessibilida.de/toolkit/ 
+- [Guidelines para UX Designers (EN)](https://uxdesign.cc/accessibility-guidelines-for-a-ux-designer-c3ba775539be)
+- [Beginners’ Guide To Writing Good HTML (EN)](https://websitesetup.org/html-tutorial-beginners/)
 
 
 ## WAI-Aria
@@ -43,6 +47,26 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - Sobre WAI-ARIA: acessibilidade e semântica (PT-BR) - https://imasters.com.br/design-ux/acessibilidade/sobre-wai-aria-acessibilidade-e-semantica/?trace=1519021197&source=single
 - Introduction to WAI ARIA (EN) - https://dev.opera.com/articles/introduction-to-wai-aria/
 - WAI-ARIA Screen reader compatibility - https://www.powermapper.com/tests/screen-readers/aria/
+- [Introdução a WAI ARIA (EN)](https://webaim.org/techniques/aria/)
+
+
+## Design
+- [Guia para entender o que faz uma  (EN)](https://uxdesign.cc/a-guide-to-understanding-what-makes-a-typeface-accessible-and-how-to-make-informed-decisions-9e5c0b9040a0)
+- [Is Your Design Inclusive? (And How to Make It More Inclusive) (EN)](https://designshack.net/articles/ux-design/inclusive-design-tips/?utm_source=newsletter&utm_medium=email&utm_campaign=ui_lab_news_ed_34_de_53&utm_term=2020-08-24)
+- [Translating Design Wireframes Into Accessible HTML/CSS (EN)](https://www.smashingmagazine.com/2020/07/design-wireframes-accessible-html-css/)
+- [UX Series 1: Universal Design and Digital Accessibility (EN)](https://www.paciellogroup.com/ux-series-universal-design-and-digital-accessibility/)
+- [UX Series 2: User Experience and Digital Accessibility (EN)](https://www.paciellogroup.com/user-experience-and-digital-accessibility/)
+- [UX Series 3: Digital Accessibility and the UX Design Process (EN)](https://www.paciellogroup.com/ux-series-digital-accessibility-and-the-ux-design-process/)
+- [UX Series 4: Digital Accessibility and the UX Testing Process (EN)](https://www.paciellogroup.com/ux-series-digital-accessibility-and-the-ux-testing-process/)
+- [UX Series 5: Usability Testing and Digital Accessibility (EN)](https://www.paciellogroup.com/ux-series-usability-testing-and-digital-accessibility/)
+- [UX Series 6: Connecting UX with Digital Accessibility Strategy (EN)](https://www.paciellogroup.com/ux-series-connecting-ux-with-digital-accessibility-strategy/)
+- [Designing accessible forms: the 10 foundational rules (EN)](https://uxdesign.cc/10-tips-for-designing-accessible-forms-a016dae8e9aa)
+- [10 things that indicate designers have no clue about accessibility (EN)](https://uxdesign.cc/10-things-that-indicate-people-have-no-clue-about-accessibility-eb4ade04ecf)
+- [Understanding Web Accessibility Color Contrast Guidelines and Ratios (EN)](https://css-tricks.com/understanding-web-accessibility-color-contrast-guidelines-and-ratios/)
+
+
+### Conteúdo
+- [Acessibilidade de conteúdo - gráficos (EN)](https://accessabilly.com/accessible-content-part-5-accessible-graphics/)
 
 
 ## API de acessibilidade
@@ -76,6 +100,9 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - http://colorsafe.co/
 - https://www.governoeletronico.gov.br/eixos-de-atuacao/governo/acessibilidade/ferramentas
 - http://contrast-finder.tanaguru.com/
+- [Lista de ferramentas e plugins para design (EN)](https://fossheim.io/writing/posts/accessible-design-tools/)
+- [Deque Introduces Automated Source Code Accessibility Checker (EN)](https://www.deque.com/blog/introducing-axe-linter/)
+- [Improving DevTools accessibility in Microsoft Edge (EN)](https://blogs.windows.com/msedgedev/2020/03/11/improving-devtools-accessibility/)
 
 
 ## Tecnologias Assistivas
@@ -87,6 +114,8 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - https://a11yproject.com/checklist.html
 - https://www.wuhcag.com/wcag-checklist/
 - https://developer.mozilla.org/en-US/docs/Web/Accessibility/Mobile_accessibility_checklist
+- https://a11yengineer.com/
+- https://websitesetup.org/web-accessibility-checklist/
 
 
 ## Podcast
@@ -117,6 +146,7 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - http://acessibilidade.pt.webiwg.org/
 - http://acessibilida.de/
 - http://dainf.ct.utfpr.edu.br/~leonelo/aria/nodes/node-1-2.html
+- https://inclusive-components.design/
 
 
 ## Artigos específicos e interessantes sobre acessibilidade
@@ -125,6 +155,9 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - https://trendr.com.br/por-um-medium-mais-acess%C3%ADvel-5074eee71383
 - https://medium.com/emanuelg-blog/escrevendo-html-com-acessibilidade-em-mente-4af1b8599246
 - The Ultimate Guide to Accessibility and WordPress - https://premium.wpmudev.org/blog/making-wordpress-accessible/
+- [Dicas de acessibilidade para desenvolvedores (EN)](https://dev.to/addyosmani/accessibility-tips-for-web-developers-4cn0)
+- [Axiomas de acessibilidade (EN)](https://github.com/accessibility/Axioms)
+- [Teste de Acessibilidade em Design Responsivo e Adaptativo (PT-BR)](https://medium.com/@luizlham/teste-de-acessibilidade-em-design-responsivo-e-adaptativo-fe04c35f4156)
 
 
 ## Acessibilidade para livros digitais
@@ -145,6 +178,7 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - Guia-de-Referencia-de-Sites-em-Acessibilidade-e-Usabilidade-UNIRIO
 - Versão 2.0 - 2010 https://pt.scribd.com/doc/30962653/Versao-2-0-2010-Guia-de-Referencia-de-Sites-em-Acessibilidade-e-Usabilidade-UNIRIO
 - Livros para estudar acessibilidade web - https://medium.com/bruno-pulis/dica-matadora-6-livros-para-estudar-acessibilidade-web-b29a20b6053a
+- [Livros indicações de acessibilidade (PT-BR)](https://brunopulis.com/dica-matadora-seis-livros-para-estudar-acessibilidade-web/)
 
 
 ## Cursos
@@ -160,10 +194,12 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - http://accessibility.mrooms.net/#a11y
 - https://github.com/mgifford/a11y-courses
 - https://webdesign.tutsplus.com/categories/web-accessibility/courses
+- https://courses.edx.org/courses/course-v1:W3Cx+WAI0.1x+3T2019/course/
 
 
 ## Pesquisas
 - Screen Reader User Survey #7 Results - https://webaim.org/projects/screenreadersurvey7/
+- [Global acessibility Day (EN)](https://globalaccessibilityawarenessday.org/)
 
 
 ## Notícias e conteúdos interessantes
@@ -175,7 +211,8 @@ Repositório com links relacionados a acessibilidade em geral. Os link possuem i
 - Reinaldo Ferraz - https://medium.com/@reinaldoferraz
 
 
-## Vídeos
+## Vídeos sobre o assunto de acessibilidade
 - Acessibilidade na Web - Alura Live#47 - https://www.youtube.com/watch?v=vrLx1yJjsXU
 - Introduction to Web Accessibility and W3C Standards - https://www.youtube.com/watch?v=20SHvU2PKsM
 - Intro to ARIA -- A11ycasts #13 - https://www.youtube.com/watch?v=g9Qff0b-lHk
+- [Webinar: Como fomentar a cultura de acessibilidade digital nas empresas](https://www.youtube.com/watch?v=rXPyvbgZOeE)
