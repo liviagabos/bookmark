@@ -3,15 +3,15 @@ Repositório com links relacionados a UX (Experiência do Usuário) em geral. Os
 
 
 ## Blogs e sites PT-BR para visitar sempre
-https://uxdesign.blog.br/ </br>
-https://medium.com/uxconfbr </br>
-https://medium.com/ui-lab-school </br>
-https://brasil.uxdesign.cc/ </br>
-https://coletivoux.com/ </br>
-https://medium.com/design-rd </br>
-https://uxplanet.org/ </br>
-https://uxdesign.cc/ </br>
-https://medium.com/tableless </br>
+- https://uxdesign.blog.br/ 
+- https://medium.com/uxconfbr 
+- https://medium.com/ui-lab-school 
+- https://brasil.uxdesign.cc/ 
+- https://coletivoux.com/ 
+- https://medium.com/design-rd 
+- https://uxplanet.org/ 
+- https://uxdesign.cc/ 
+- https://medium.com/tableless 
 
 ## Blogs e sites (EN) para visitar sempre
 
@@ -37,3 +37,7 @@ https://leanpub.com/UXD-alguem-esta-fazendo-isso-por-voce </br>
 https://www.caelum.com.br/apostila-ux-usabilidade-mobile-web/#null </br>
 https://lucianolarrossa.com/ebooks-gratis-para-freelancers-de-web-design/ </br>
 http://auladeux.com.br/ </br>
+
+
+## Aprender sobre
+- https://www.uxapprentice.com/
